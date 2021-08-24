@@ -1,0 +1,12 @@
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\bin\Debug\Alpha_initial_build.exe.config
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\bin\Debug\Alpha_initial_build.exe
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\bin\Debug\Alpha_initial_build.pdb
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\bin\Debug\Alpha_initial_build.xml
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.vbprojAssemblyReference.cache
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.Form1.resources
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.Resources.resources
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.vbproj.GenerateResource.cache
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.vbproj.CoreCompileInputs.cache
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.exe
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.xml
+C:\Users\ASHU\Desktop\VS_19\Alpha_initial_build\Alpha_initial_build\obj\Debug\Alpha_initial_build.pdb
